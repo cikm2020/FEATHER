@@ -14,21 +14,10 @@ In this paper, we propose a flexible notion of characteristic functions defined 
 
 ### Table of Contents
 
-1. [Citing](#citing)  
-2. [Requirements](#requirements)
-3. [Options](#options) 
-4. [Examples](#examples)
+1. [Requirements](#requirements)
+2. [Options](#options) 
+3. [Examples](#examples)
 
-### Citing
-
-If you find FEATHER useful in your research, please consider citing the following paper:
-```bibtex
->@misc{rozemberczki2020feather,    
-       title = {Characteristic Functions on Graphs: Birds of a Feather, from Statistical Descriptors to Parametric Models},   
-       author = {Benedek Rozemberczki and Rik Sarkar},   
-       year = {2020}
-       }
-```
 ### Requirements
 The codebase is implemented in Python 3.5.2. package versions used for development are just below.
 ```
